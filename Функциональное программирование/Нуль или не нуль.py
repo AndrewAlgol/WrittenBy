@@ -1,3 +1,4 @@
+"https://www.coursera.org/learn/python-osnovy-programmirovaniya/programming/9uqay/nol-ili-nie-nol"
 from itertools import repeat
 print(
     0 in list(
