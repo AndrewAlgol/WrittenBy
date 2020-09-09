@@ -1,3 +1,4 @@
+"https://www.coursera.org/learn/python-osnovy-programmirovaniya/programming/D7AH7/xor"
 print(
     *list(
         map(
