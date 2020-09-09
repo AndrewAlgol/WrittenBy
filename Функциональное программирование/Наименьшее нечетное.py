@@ -1,3 +1,4 @@
+"https://www.coursera.org/learn/python-osnovy-programmirovaniya/programming/EMsJG/naimien-shii-niechietnyi"
 print(
     min(
         filter(
