@@ -1,3 +1,4 @@
+"https://www.coursera.org/learn/python-osnovy-programmirovaniya/programming/ML248/proizviedieniie-piatykh-stiepieniei"
 from functools import reduce
 print(
     reduce(
